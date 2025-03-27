@@ -1,7 +1,7 @@
 ## DESCRIÇÃO DO PROJETO
 O programa permite gerenciar pedidos em um sistema de produtos que inclui funcionalidades como adicionar produtos ao pedido, visualizar o resumo do pedido, calcular o valor total com desconto e condições especiais.
  
-Funcionalidades
+### Funcionalidades:
 Listagem de Produtos: Exibe a lista de produtos disponíveis com seus preços e quantidades.
  
 Adicionar Produto ao Pedido: Permite adicionar um produto ao pedido, reduzindo a quantidade no estoque.
@@ -49,12 +49,12 @@ Program: Contém a lógica principal do programa e o menu de interação com o u
  
  
 ## INTEGRANTES  
-Cassio Valezzi - 551059
-Gabriel Antony Cadima Ciziks - 98215
-Lucca Sabatini Tambellini - 98169
+Cassio Valezzi - 551059 |
+Gabriel Antony Cadima Ciziks - 98215 |
+Lucca Sabatini Tambellini - 98169 |
  
  
 ## VERSÃO UTILIZADA
-Visual Studio 2022
-Language Vs 12.0
-.NET 8.0
+Visual Studio 2022 |
+Language Vs 12.0   |
+.NET 8.0           |
